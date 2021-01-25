@@ -1,0 +1,10 @@
+name: Trails
+version: 0.1
+main: me.belezaman.trailsgui.Main
+description: Esse plugin permite o uso de trails em si mesmo.
+author: Belezaman
+api-version: 1.16
+commands:
+  trails:
+    description: Use /trails to open GUI with section of trails effects
+    usage: Syntax error! Use /trails to open GUI with section of trails effects.
